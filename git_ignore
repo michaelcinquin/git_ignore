@@ -18,3 +18,11 @@ ehthumbs.db
 Thumbs.db
 **/.duplicacy/cache/
 **/git_ignore/
+
+etc/pve
+**/*.rrd
+**/lrm_status
+pve/local
+pve/lxc
+pve/openvz
+pve/qemu-server
