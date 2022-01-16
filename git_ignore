@@ -16,4 +16,5 @@ auto-save-list
 .Trashes
 ehthumbs.db
 Thumbs.db
-.duplicacy/cache/
+**/.duplicacy/cache/
+**/git_ignore/
