@@ -18,3 +18,4 @@ ehthumbs.db
 Thumbs.db
 **/.duplicacy/cache/
 **/git_ignore/
+**/.duplicacy/lastbackup
