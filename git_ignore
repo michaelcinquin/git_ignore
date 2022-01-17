@@ -26,3 +26,4 @@ pve/local
 pve/lxc
 pve/openvz
 pve/qemu-server
+**/.duplicacy/lastbackup
