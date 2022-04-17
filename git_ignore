@@ -29,3 +29,6 @@ pve/qemu-server
 **/.duplicacy/lastbackup
 
 vendor/cache/*
+
+
+._*
