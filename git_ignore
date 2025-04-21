@@ -32,3 +32,5 @@ vendor/cache/*
 
 
 ._*
+**/__pycache__
+**/*.pyc
