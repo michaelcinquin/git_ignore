@@ -8,8 +8,9 @@
 auto-save-list
 .\#*
 
-*.pyc
-
+**/*.pyc
+**/__pycache__
+ 
 *.log
 
 .DS_Store
