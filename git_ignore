@@ -1,6 +1,7 @@
 # -*- mode: gitignore; -*-
 *~
 \#*\#
+*.pyc
 /.emacs.desktop
 /.emacs.desktop.lock
 *.elc
