@@ -1,12 +1,16 @@
 # -*- mode: gitignore; -*-
 *~
 \#*\#
+*.pyc
 /.emacs.desktop
 /.emacs.desktop.lock
 *.elc
 auto-save-list
 .\#*
 
+**/*.pyc
+**/__pycache__
+ 
 *.log
 
 .DS_Store
@@ -32,4 +36,9 @@ vendor/cache/*
 
 
 ._*
+
 charbonUpdate*.lock
+
+**/__pycache__
+**/*.pyc
+
